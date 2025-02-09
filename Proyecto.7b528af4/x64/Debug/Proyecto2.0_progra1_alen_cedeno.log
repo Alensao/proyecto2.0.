@@ -1,0 +1,9 @@
+﻿  course.cpp
+  enrollment.h
+  Proyecto2.0_progra1_alen_cedeno.cpp
+  student.cpp
+C:\Users\alenc\OneDrive\Escritorio\Proyecto2.0_progra1_alen_cedeno\Proyecto2.0_progra1_alen_cedeno.cpp(71,9): error C2360: la inicialización de 'student' se omite en la etiqueta 'case'
+C:\Users\alenc\OneDrive\Escritorio\Proyecto2.0_progra1_alen_cedeno\Proyecto2.0_progra1_alen_cedeno.cpp(71,9): error C2360: la inicialización de 'id' se omite en la etiqueta 'case'
+C:\Users\alenc\OneDrive\Escritorio\Proyecto2.0_progra1_alen_cedeno\Proyecto2.0_progra1_alen_cedeno.cpp(75,9): error C2361: la inicialización de 'student' se omite en la etiqueta 'default'
+C:\Users\alenc\OneDrive\Escritorio\Proyecto2.0_progra1_alen_cedeno\Proyecto2.0_progra1_alen_cedeno.cpp(75,9): error C2361: la inicialización de 'id' se omite en la etiqueta 'default'
+  Generando código...
